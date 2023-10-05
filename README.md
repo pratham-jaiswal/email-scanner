@@ -1,8 +1,3 @@
-<img src="./emailScan.ico" 
-        alt="Picture" 
-        width="200"
-        style="display: block; margin: 0 auto" />
-
 # Email Scanner
 This is a Python application for scanning your email inbox and searching for specific terms in the email body and attachments, of emails received on that day. The application uses a graphical user interface built with the tkinter library for user interaction. It can be converted into a standalone executable file for ease of use and distribution.
 
