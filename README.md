@@ -1,5 +1,7 @@
 # Email Scanner
-This is a Python application for scanning your email inbox and searching for specific terms in the email body and attachments, of emails received on that day. The application uses a graphical user interface built with the tkinter library for user interaction. It can be converted into a standalone executable file for ease of use and distribution.
+This is a Python application for scanning your email inbox and searching for specific terms in the email body and attachments, of emails received on that day. The application uses a graphical user interface built with the tkinter library for user interaction. It is converted into a [standalone executable file](https://github.com/pratham-jaiswal/email-scanner/releases/tag/Latest) for ease of use and distribution.
+
+> ***Note: This is a windows only application***
 
 ## Use Case
 - To let user look up whether they are mentioned in any email or its attachments, for example in placement related emails for students.
