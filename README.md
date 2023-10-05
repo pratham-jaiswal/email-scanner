@@ -3,6 +3,8 @@ This is a Python application for scanning your email inbox and searching for spe
 
 > ***Note: This is a windows only application***
 
+> ***Note: This only supports gmail and gmail related work accounts***
+
 ## Use Case
 - To let user look up whether they are mentioned in any email or its attachments, for example in placement related emails for students.
 - To let students look up important emails, for example keeping track of placement related emails for students.
