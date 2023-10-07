@@ -54,5 +54,8 @@ This is a Python application for scanning your email inbox and searching for spe
 - Now get back to the *Email Scanner* app, enter your email password, and then click on *Start Scan*.
 - Once the scan is complete you will see popup window with success message.
 
+## Feedback and Contributions
+Your feedback is invaluable to me! If you encounter any issues, have suggestions for improvements, or want to contribute to the development of Email Scanner, please don't hesitate to [open an issue](https://github.com/pratham-jaiswal/email-scanner/issues) on my GitHub repository.
+
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code for your own purposes.
